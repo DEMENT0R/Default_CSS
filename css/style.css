@@ -1,0 +1,20 @@
+/* CSS Start */
+/* Base styles for simple browsers. */
+
+@media only screen and (min-width: 480px) {
+  /* Android, iPhone, etc. */
+}
+
+@media only screen and (min-width: 768px) {
+  /* Tablets — portrait. */
+}
+
+@media only screen and (min-width: 992px) {
+  /* Landscape tablets, notebooks, desktop. */
+}
+
+@media only screen and (min-width: 1382px) {
+  /* Hires desktops, TVs. */
+}
+
+/* CSS End */
